@@ -1,4 +1,8 @@
 require 'contacts/version'
+require 'contacts/flickr'
+require 'contacts/google'
+require 'contacts/windows_live'
+require 'contacts/yahoo'
 
 module Contacts
   
